@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 ### 🖥️ About me :
   
 -  &nbsp;📍 &nbsp;I'm from Leiria, Portugal
+- 🔭 I’m currently working on VOID Software
 - 🌱 I’m currently learning React
 - ⚡ Fun fact: I really enjoy LEGOs
   
