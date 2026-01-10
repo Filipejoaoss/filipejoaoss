@@ -31,7 +31,6 @@ Here are some ideas to get you started:
 ### 🖥️ About me :
   
 -  &nbsp;📍 &nbsp;I'm from Leiria, Portugal
-- 🔭 I’m currently working on VOID Software
 - ⚡ Fun fact: I really enjoy LEGOs
   
 ---
@@ -63,13 +62,6 @@ Here are some ideas to get you started:
 </div>
 
 ---
-
-### 📈 Stats :
-<div align="center">
-  <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Filipejoaoss&show_icons=true&theme=transparent"/>
-  &nbsp;
-  <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Filipejoaoss&layout=compact&langs_count=7&show_icons=true&theme=transparent"/>
-</div>
 
 ---
 
