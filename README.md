@@ -20,9 +20,11 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/filipe-sousa-51a6b6229/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/filipe__joao">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a> 
+ <!--
+   <a href="https://twitter.com/filipe__joao">
+     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+   </a> 
+ -->
   <br>
 </div>
 
@@ -32,7 +34,9 @@ Here are some ideas to get you started:
   
 -  &nbsp;📍 &nbsp;I'm from Leiria, Portugal
 -  🔭 I'm currently working at VOID Software
+<!--
 - ⚡ Fun fact: I really enjoy LEGOs
+-->
   
 ---
 
