@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="132" height="32" viewBox="0 0 132 32" role="img" aria-labelledby="title">
+  <title id="title">Playwright</title>
+  <rect width="132" height="32" fill="#0d1117"/>
+  <g transform="translate(6 8) scale(.65)">
+    <g transform="rotate(-16 9 13)">
+      <path d="M1 3Q9 7 17 3V14Q17 22 9 25Q1 22 1 14Z" fill="#e34f61"/>
+      <path d="M4 10L7 11M11 11L14 10" stroke="#173427" stroke-width="2"/>
+      <path d="M5 19Q9 14 13 19" fill="none" stroke="#173427" stroke-width="2"/>
+    </g>
+    <g transform="translate(12 -3) rotate(15 9 13)">
+      <path d="M1 3Q9 7 17 3V14Q17 22 9 25Q1 22 1 14Z" fill="#45ba4b"/>
+      <path d="M4 11L7 10M11 10L14 11" stroke="#173427" stroke-width="2"/>
+      <path d="M4 15Q9 19 14 15Q12 22 9 22Q6 22 4 15Z" fill="#173427"/>
+    </g>
+  </g>
+  <text x="33" y="16" dy=".35em" fill="#fff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="11" font-weight="700" letter-spacing="1">PLAYWRIGHT</text>
+</svg>
