@@ -39,7 +39,7 @@ Based in Leiria, Portugal. Working at **VOID Software**.
 <p>
   <img src="https://img.shields.io/badge/Jest-0d1117?style=for-the-badge&amp;logo=jest&amp;logoColor=C21325" alt="Jest" height="32" />
   <img src="https://img.shields.io/badge/Vitest-0d1117?style=for-the-badge&amp;logo=vitest&amp;logoColor=6E9F18" alt="Vitest" height="32" />
-  <img src="./assets/playwright-badge.svg" alt="Playwright" height="32" />
+  <img src="https://img.shields.io/badge/Playwright-0d1117?style=for-the-badge" alt="Playwright" height="32" />
 </p>
 
 ---
