@@ -1,69 +1,50 @@
-### Hi there 👋
- 
-<!--
-**Filipejoaoss/filipejoaoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./assets/banner.png" alt="Hello, world. Web developer · Portugal — pixel art coding desk" width="100%" />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I really enjoy LEGOs
--->
-
-<div align="center">
-  <br>
-  <a href="https://www.linkedin.com/in/filipe-sousa-51a6b6229/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
- <!--
-   <a href="https://twitter.com/filipe__joao">
-     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-   </a> 
- -->
-  <br>
-</div>
-
----
- 
-### 🖥️ About me :
-  
--  &nbsp;📍 &nbsp;I'm from Leiria, Portugal
--  🔭 I'm currently working at VOID Software
-<!--
-- ⚡ Fun fact: I really enjoy LEGOs
--->
-  
----
-
-### 🛠️ Languages and Tools :
-<div>
-  <div align="center">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJs" alt="NextJs" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="MaterialUI" alt="MaterialUI" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg" title="Playwright" alt="Playwright" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mapbox/mapbox-original.svg" title="Mapbox" alt="Mapbox" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VueJS" alt="VueJS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
-  </div>
-</div>
+Based in Leiria, Portugal. Working at **VOID Software**.
 
 ---
 
+<img src="./assets/tools-heading.svg" alt="Tools I work with" width="360" />
+
+### Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React" height="32" />
+  <img src="https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=FFFFFF" alt="Next.js" height="32" />
+  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&amp;logo=typescript&amp;logoColor=3178C6" alt="TypeScript" height="32" />
+  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" alt="JavaScript" height="32" />
+  <img src="https://img.shields.io/badge/Vue-0d1117?style=for-the-badge&amp;logo=vuedotjs&amp;logoColor=4FC08D" alt="Vue" height="32" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=5FA04E" alt="Node.js" height="32" />
+  <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&amp;logo=mysql&amp;logoColor=4479A1" alt="MySQL" height="32" />
+  <img src="https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&amp;logo=firebase&amp;logoColor=FFCA28" alt="Firebase" height="32" />
+</p>
+
+### Styling
+
+<p>
+  <img src="https://img.shields.io/badge/MUI-0d1117?style=for-the-badge&amp;logo=mui&amp;logoColor=007FFF" alt="MUI" height="32" />
+  <img src="https://img.shields.io/badge/Bootstrap-0d1117?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=7952B3" alt="Bootstrap" height="32" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-0d1117?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=06B6D4" alt="Tailwind CSS" height="32" />
+  <img src="https://img.shields.io/badge/Sass-0d1117?style=for-the-badge&amp;logo=sass&amp;logoColor=CC6699" alt="Sass" height="32" />
+  <img src="https://img.shields.io/badge/CSS-0d1117?style=for-the-badge&amp;logo=css&amp;logoColor=663399" alt="CSS" height="32" />
+</p>
+
+### Testing
+
+<p>
+  <img src="https://img.shields.io/badge/Jest-0d1117?style=for-the-badge&amp;logo=jest&amp;logoColor=C21325" alt="Jest" height="32" />
+  <img src="https://img.shields.io/badge/Vitest-0d1117?style=for-the-badge&amp;logo=vitest&amp;logoColor=6E9F18" alt="Vitest" height="32" />
+  <img src="https://img.shields.io/badge/Playwright-0d1117?style=for-the-badge" alt="Playwright" height="32" />
+</p>
+
+---
+
+<!-- Replace YOUR_LINKEDIN_USERNAME with your LinkedIn profile slug. -->
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+  <img src="./assets/linkedin-pixel.svg" alt="Find me on LinkedIn" width="290" />
+</a>
