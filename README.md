@@ -45,6 +45,6 @@ Based in Leiria, Portugal. Working at **VOID Software**.
 ---
 
 <!-- Replace YOUR_LINKEDIN_USERNAME with your LinkedIn profile slug. -->
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/](https://www.linkedin.com/in/filipe-sousa-51a6b6229/">
   <img src="./assets/linkedin-pixel.svg" alt="Find me on LinkedIn" width="290" />
 </a>
